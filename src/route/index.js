@@ -1,0 +1,21 @@
+export const paths = [
+    '/', 
+    '/personal', 
+    '/portraits', 
+    '/contacts', 
+    '/personal/three_mirrors_without_amalgam', 
+    '/personal/between_the_city_yes_and_the_city_no',
+    '/personal/destrudo',
+    '/portraits/anton',
+    '/portraits/rina',
+    '/portraits/rina_anna',
+    '/portraits/kaya_kan',
+    '/portraits/nadya',
+    '/portraits/maya',
+    '/portraits/nastasya',
+    '/portraits/nastya',
+    '/private_stories',
+    '/private_stories/wedd_day',
+    '/private_stories/ballet_class',
+    '/private_stories/centrifugal_force'
+]
